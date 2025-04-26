@@ -7,7 +7,7 @@ Atualmente, sou Aprendiz na A.Yoshii Engenharia, onde contribuo para a organiza�
  Sou muito motivado pelo aprendizado contínuo e pelo desejo de aplicar meus conhecimentos em projetos práticos. Meu objetivo é crescer na área do TI, e estou descobrindo ainda em qual área do ti quero seguir carreira .
  
 <p align="left">
-    <a href="https://www.linkedin.com/in/-vitorsilvaoficial-/">
+    <a href="https://www.linkedin.com/in/vitor-silva-a6124331a/">
         <img 
             alt="Me siga no Linkedln" 
             title="Me siga no Linkedln" 
