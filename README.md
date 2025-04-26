@@ -46,4 +46,3 @@ Atualmente, sou Aprendiz na A.Yoshii Engenharia, onde contribuo para a organizaÃ
   />
 
 
-<picture align="center">
